@@ -2,7 +2,7 @@
 - 🇧🇷 I was born and am living in Brazil
 - 🎮 I’m interested in gaming, learning new things, and programming;
 - 🌱 Currently enrolled in Harvard's CS50x 2022 course;
-- 📫 Reach me through my Instagram @Finatchos
+- 📫 Reach me through my Instagram @joaov.finatto
 
 <!--
 **Finatchos/Finatchos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
