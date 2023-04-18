@@ -1,5 +1,5 @@
-- 👋 Hi, I’m João Vitor, a 16y/o high school student
-- 🇧🇷 I was born and am living in Brazil
+- 👋 Hi, I’m João Vitor, a 17y/o high school student
+- 🇧🇷 I was born and live in Brazil
 - 📫 Reach me through my Instagram @joaov.finatto
 
 <!--
