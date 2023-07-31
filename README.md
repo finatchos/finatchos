@@ -1,6 +1,4 @@
-- 👋 Hi, I’m João Vitor, a 17y/o high school student
-- 🇧🇷 Brazilian
-- 📫 Reach me through my Instagram @joaov.finatto
+> future dev_
 
 <!--
 **Finatchos/Finatchos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
